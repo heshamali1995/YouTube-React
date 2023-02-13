@@ -1,0 +1,38 @@
+/* Light Mode */
+
+.main-links {
+    div:first-of-type {
+        background-color: #f2f2f2;
+    }
+}
+
+.main-links,
+.secondry-links,
+.sub-links,
+.help-link {
+    div {
+        &:hover {
+            background-color: #f2f2f2;
+        }
+    }
+}
+
+/* Dark Mode */
+
+aside.dark {
+    .main-links {
+        div:first-of-type {
+            background-color: #272727;
+        }
+    }
+    .main-links,
+    .secondry-links,
+    .sub-links,
+    .help-link {
+        div {
+            &:hover {
+                background-color: #272727;
+            }
+        }
+    }
+}

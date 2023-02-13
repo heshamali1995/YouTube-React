@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Rubik";
+  src: url("../assets/fonts/static/Rubik-Regular.ttf");
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #aaaaaa;
+  border-radius: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,24 @@
+/* Light Mode */
+.main-links div:first-of-type {
+  background-color: #f2f2f2;
+}
+
+.main-links div:hover,
+.secondry-links div:hover,
+.sub-links div:hover,
+.help-link div:hover {
+  background-color: #f2f2f2;
+}
+
+/* Dark Mode */
+aside.dark .main-links div:first-of-type {
+  background-color: #272727;
+}
+aside.dark .main-links div:hover,
+aside.dark .secondry-links div:hover,
+aside.dark .sub-links div:hover,
+aside.dark .help-link div:hover {
+  background-color: #272727;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,13 @@
+/* Light Mode */
+.tab.selected {
+  background-color: #272727;
+  color: #fff;
+}
+
+/* Dark Mode */
+.tab.selected.dark {
+  background-color: #fff;
+  color: #000;
+}
+
+/*# sourceMappingURL=style.css.map */

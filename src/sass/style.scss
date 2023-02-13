@@ -1,0 +1,13 @@
+@use "./base/functions" as *;
+@use "./base/mixins" as *;
+
+@include fontFace("Rubik", "../assets/fonts/static/Rubik-Regular.ttf");
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #aaaaaa;
+    border-radius: 20px;
+}
