@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YouTube-React/static/css/main.37366449.css",
+    "main.js": "/YouTube-React/static/js/main.2ffe72cc.js",
+    "static/js/787.a3118e53.chunk.js": "/YouTube-React/static/js/787.a3118e53.chunk.js",
+    "static/media/Rubik-Regular.ttf": "/YouTube-React/static/media/Rubik-Regular.705a89f52bdf93b960ed.ttf",
+    "index.html": "/YouTube-React/index.html",
+    "main.37366449.css.map": "/YouTube-React/static/css/main.37366449.css.map",
+    "main.2ffe72cc.js.map": "/YouTube-React/static/js/main.2ffe72cc.js.map",
+    "787.a3118e53.chunk.js.map": "/YouTube-React/static/js/787.a3118e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37366449.css",
+    "static/js/main.2ffe72cc.js"
+  ]
+}
